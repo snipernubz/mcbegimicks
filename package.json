@@ -1,0 +1,35 @@
+{
+  "name": "@snipernubz/mcgimick",
+  "version": "1.0.0",
+  "description": "random gimicks for mcbe",
+  "main": "mcblockitem.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fancy-format-log": "^3.0.0",
+    "util": "^0.12.3",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "publishConfig": {
+    "registry": "https://npm.pkg.github.com/snipernubz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snipernubz/MCgimick.git"
+  },
+  "keywords": [
+    "mcbe",
+    "minecraft",
+    "mcpe",
+    "websockets"
+  ],
+  "author": "snipernubz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snipernubz/MCgimick/issues"
+  },
+  "homepage": "https://github.com/snipernubz/MCgimick#readme"
+}
