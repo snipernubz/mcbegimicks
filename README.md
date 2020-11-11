@@ -1,4 +1,5 @@
-# What is this
+
+# What is this?
 
 This is a collection of gimicks for mcbe that uses websockets to remotely run commands 
 
@@ -6,8 +7,17 @@ This is a collection of gimicks for mcbe that uses websockets to remotely run co
 
 These gimicks can do things like, give you a random item every ten seconds, place a random block beneath you every ten seconds and more.
 
-### debug 
+## debug 
 The two debug scripts "mcdebug.js" and "rmccli.js" .
 "mcdebug.js" will listen for events and log them to console or a csv file (csv logging is a WIP), while "rmccli.js" allows you to remotely input vanilla commands.
+
+## **what do these scripts do?**
+
+mcblockitem
+Will give you a random block/item
+
+mcmorph(WIP)
+Will turn your freind into a wolf
+
 
 
